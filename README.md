@@ -97,5 +97,5 @@ It highlights the ability to upload data, perform SQL-based aggregation, and bui
 ## 👩‍💻 Author
 
 **Amisha Ninawe**  
-Aspiring Data Analyst | SQL | Cloud Analytics | Data Visualization  
+ Data Analyst | SQL | Cloud Analytics | Data Visualization  
 ⭐ Feel free to star this repository if you find it useful!
